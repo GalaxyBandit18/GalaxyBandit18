@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @GalaxyBandit18
+- 🙍‍♂️ I'm Caleb and I'm 16 years old.
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning java, html, css, and how to use Git and GitHub.
 - 💞️ I’m looking to collaborate on (I don't even know how to use this yet...).
